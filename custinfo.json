@@ -1,0 +1,34 @@
+{
+	"data": [
+		{
+			"name": "Signal Gift Stores",
+			"city": "Las Vegas",
+			"state": "NV",
+			"country": "USA"
+		},
+		{
+			"name": "Mini Gifts Distributors Ltd.",
+			"city": "San Rafael",
+			"state": "CA",
+			"country": "USA"
+		},
+		{
+			"name": "Mini Wheels Co.",
+			"city": "San Francisco",
+			"state": "CA",
+			"country": "USA"
+		},
+		{
+			"name": "Land of Toys Inc.",
+			"city": "NYC",
+			"state": "NY",
+			"country": "USA"
+		},
+		{
+			"name": "Muscle Machine Inc",
+			"city": "NYC",
+			"state": "NY",
+			"country": "USA"
+		}
+	]
+}
